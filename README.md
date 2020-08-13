@@ -1,2 +1,1 @@
-
-Gyakorlas -2 "# Gyakorlas" 
+Gyakorlas -4 "# Gyakorlas" 
